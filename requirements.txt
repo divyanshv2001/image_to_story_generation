@@ -1,0 +1,5 @@
+Flask
+google-cloud-vision
+google-auth
+openai
+python-dotenv
